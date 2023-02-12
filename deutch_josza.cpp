@@ -92,10 +92,3 @@ int main()
     std::cout << "Evaluated:\t" << balanced_function_test.first
               << ",\t Iterations: " << balanced_function_test.second << std::endl;
 }
-
-
-
-
-
-
-
